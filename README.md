@@ -1,5 +1,4 @@
 <div>
-  <img align="left" width="40px" src="https://github.com/craftablescience/MareTF/blob/mane/res/logo.png?raw=true" alt="MareTF Logo" />
   <h1>MareTF</h1>
 </div>
 
@@ -11,8 +10,6 @@
 </div>
 
 A utility to create, edit, and display every type of VTF file ever made.
-
-![A preview of the application's main windows.](https://github.com/craftablescience/MareTF/blob/mane/res/brand/screenshot1.png?raw=true)
 
 ## Features
 
@@ -47,8 +44,6 @@ A utility to create, edit, and display every type of VTF file ever made.
   - Print data as colored human-readable text or as plain KeyValues
 - Thumbnail
   - Display thumbnails for all VTF platforms and versions on Windows and Linux in your file explorer of choice
-
-<img src="https://github.com/craftablescience/MareTF/blob/mane/res/olive_shade_wink.png?raw=true" alt="The same olive-skinned and red-haired kirin as from the MareTF logo, winking." />
 
 ## Credits
 
@@ -627,5 +622,3 @@ COMPRESSION_METHOD
  • ZSTD
  • CONSOLE_LZMA
 ```
-
-<img src="https://github.com/craftablescience/MareTF/blob/mane/res/olive_shade_sleep.png?raw=true" alt="The same olive-skinned and red-haired kirin as from the MareTF logo, sleeping." />
